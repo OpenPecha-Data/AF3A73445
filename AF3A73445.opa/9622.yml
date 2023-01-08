@@ -1,0 +1,27 @@
+segment_sources:
+  IB9FB79D6:
+    type: origin_type
+    relation: translation
+    base: 22CF
+    lang: en
+  IA5455E87:
+    type: origin_type
+    relation: translation
+    base: '8228'
+    lang: bo
+segment_pairs:
+  9c68af5aa4454178ac12cf80fbbf5ba3:
+    IB9FB79D6: d3cefc50e537420b9f4e7011ac2580ee
+    IA5455E87: 97ea7beffbb7444d8c4e2ada5baaaa94
+  2cbdab9c19da4965b7d001d9d8916263:
+    IB9FB79D6: 63b1431bf519430fb7768cefd7843836
+    IA5455E87: bed049d8215740d28e407ffc3b239916
+  f5a5d87c62ce461385abd3afcfe31832:
+    IB9FB79D6: 14c164334be040e68137555ec7e390cb
+    IA5455E87: 2743c10893a647c9b9c6e4c71f22fe9c
+  72f078bde64542faae48a1ee2d4989ab:
+    IB9FB79D6: 9494c16495c8462bbf7e89285137d00b
+    IA5455E87: 52659903218c490fae5e38fd27ab17d2
+  033da50000124540b3d156c884e65cb2:
+    IB9FB79D6: 2e3ab9caafa34a23a2d7e08e59e2a1a1
+    IA5455E87: 575c88e1f8ed4b58a2773cffdb955986

@@ -1,0 +1,19 @@
+id: AF3A73445
+title: Prayer for the Long Life of Jamyang Khyentse Chökyi Lodrö
+type: translation
+pechas:
+- IB9FB79D6
+- IA5455E87
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:15:30.621840
+  last_modified_at: 2023-01-04 12:15:30.621852
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IB9FB79D6/22CF: '9622'
+  IA5455E87/8228: '9622'
